@@ -1,0 +1,28 @@
+body {
+  background-color: #ECF6E0;
+  font-family: 'Poppins', sans-serif;
+  color: #36471C;
+}
+
+header {
+  padding: 240px 0 200px;
+  background-image: url('/asset/Group\ 17.png');
+  background-size: cover;
+  background-attachment: fixed;
+  color: #fff;
+}
+
+.card {
+  background-color: #ECF6E0;
+}
+
+.section-berita,
+.section-informasi,
+.section-galeri {
+  background-color: #fff;
+}
+
+.section-berita-terkini,
+.section-informasi-terkini {
+  background-color: #ECF6E0;
+}
